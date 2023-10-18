@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/9d2c018606ae43a5a4cf18103f3c21a9/artifacts
+end_time: 1697607736724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d2c018606ae43a5a4cf18103f3c21a9
+run_name: clean-sloth-118
+run_uuid: 9d2c018606ae43a5a4cf18103f3c21a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607732263
+status: 3
+tags: []
+user_id: vagra

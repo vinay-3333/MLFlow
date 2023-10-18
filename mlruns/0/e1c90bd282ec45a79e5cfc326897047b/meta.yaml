@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/e1c90bd282ec45a79e5cfc326897047b/artifacts
+end_time: 1697607631585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1c90bd282ec45a79e5cfc326897047b
+run_name: rumbling-fox-720
+run_uuid: e1c90bd282ec45a79e5cfc326897047b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607628406
+status: 3
+tags: []
+user_id: vagra

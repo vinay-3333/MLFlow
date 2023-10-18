@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/bfc74a7aeab342989f66f947a9c6e11a/artifacts
+end_time: 1697607681233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfc74a7aeab342989f66f947a9c6e11a
+run_name: bittersweet-fish-156
+run_uuid: bfc74a7aeab342989f66f947a9c6e11a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607678062
+status: 3
+tags: []
+user_id: vagra

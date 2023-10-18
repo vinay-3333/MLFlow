@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/a0f40f020e2a48829f96cfad8d253ffc/artifacts
+end_time: 1697607665497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0f40f020e2a48829f96cfad8d253ffc
+run_name: valuable-bug-453
+run_uuid: a0f40f020e2a48829f96cfad8d253ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607663692
+status: 4
+tags: []
+user_id: vagra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/5a5c292962064699b2540cc4793bbc36/artifacts
+end_time: 1697607688200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a5c292962064699b2540cc4793bbc36
+run_name: traveling-bass-263
+run_uuid: 5a5c292962064699b2540cc4793bbc36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607685751
+status: 3
+tags: []
+user_id: vagra

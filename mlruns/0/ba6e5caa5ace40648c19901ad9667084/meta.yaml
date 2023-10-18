@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/ba6e5caa5ace40648c19901ad9667084/artifacts
+end_time: 1697607659467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba6e5caa5ace40648c19901ad9667084
+run_name: loud-swan-465
+run_uuid: ba6e5caa5ace40648c19901ad9667084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607655796
+status: 3
+tags: []
+user_id: vagra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/258e7a7e2b8f4ad2b312738bf9647bdc/artifacts
+end_time: 1697607750498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 258e7a7e2b8f4ad2b312738bf9647bdc
+run_name: sneaky-hawk-109
+run_uuid: 258e7a7e2b8f4ad2b312738bf9647bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607748176
+status: 4
+tags: []
+user_id: vagra

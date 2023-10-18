@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/09e7be63cc534cf59808161ad95e298b/artifacts
+end_time: 1697605778593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09e7be63cc534cf59808161ad95e298b
+run_name: skillful-conch-612
+run_uuid: 09e7be63cc534cf59808161ad95e298b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697605775690
+status: 3
+tags: []
+user_id: vagra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/f80b07f31ea945469e77d0183e3c4d51/artifacts
+end_time: 1697607758744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80b07f31ea945469e77d0183e3c4d51
+run_name: placid-snake-321
+run_uuid: f80b07f31ea945469e77d0183e3c4d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607755023
+status: 3
+tags: []
+user_id: vagra

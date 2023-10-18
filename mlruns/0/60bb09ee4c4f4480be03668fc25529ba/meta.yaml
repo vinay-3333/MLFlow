@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/60bb09ee4c4f4480be03668fc25529ba/artifacts
+end_time: 1697607714926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60bb09ee4c4f4480be03668fc25529ba
+run_name: salty-mule-150
+run_uuid: 60bb09ee4c4f4480be03668fc25529ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607710560
+status: 3
+tags: []
+user_id: vagra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/d3e7113955184e0e8c5311964a599e7f/artifacts
+end_time: 1697607651283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3e7113955184e0e8c5311964a599e7f
+run_name: nebulous-horse-485
+run_uuid: d3e7113955184e0e8c5311964a599e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697607649034
+status: 3
+tags: []
+user_id: vagra

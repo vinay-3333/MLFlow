@@ -31,9 +31,9 @@ def evaluate(y_test,y_pred,pred_pro):
     r2=r2_score(y_test,y_pred)
 '''
     accuracy = accuracy_score(y_test,y_pred)
-    roc_auc_score = roc_auc_score(y_test,pred_pro,multi_class ='ovr')
+    rc_score = roc_auc_score(y_test,pred_pro,multi_class ='ovr')
     # return mae,mse,rmse,r2
-    return accuracy,roc_auc_score
+    return accuracy,rc_score
 
 def main(n_estimators,max_depth):
     # train test split with raw data
@@ -63,14 +63,19 @@ def main(n_estimators,max_depth):
         # evalued the model
         # mae,mse,rmse,r2 = evaluate(y_test,y_pred)
         
-        accuracy,roc_auc_score= evaluate(y_test,y_pred,pred_pro)
+        accuracy,rc_score= evaluate(y_test,y_pred,pred_pro)
 
         mlflow.log_param("n_estimators",n_estimators)
         mlflow.log_param('max_depth',max_depth)
 
         mlflow.log_metric('accuracy',accuracy)
-        mlflow.log_metric('roc_auc_score',roc_auc_score)
+        mlflow.log_metric('roc_auc_score',rc_score)
+
+        # mlflow model logging
+        mlflow.sklearn.log_model(lr,"randomforestmodel")
+
         print(f"accuracy {accuracy}")
+        print(f"roc_auc_score {rc_score}")
 
 
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops/mlruns/0/8345c6ecaa684a33b37b1cb7d9f02607/artifacts
+end_time: 1697606279498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8345c6ecaa684a33b37b1cb7d9f02607
+run_name: nervous-dove-327
+run_uuid: 8345c6ecaa684a33b37b1cb7d9f02607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697606274853
+status: 3
+tags: []
+user_id: vagra
